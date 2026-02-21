@@ -1,0 +1,1 @@
+# Solar-panel-Efficieny-based-cleaning-mechanism
